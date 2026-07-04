@@ -11,5 +11,9 @@ _Purpose of Repo is_
 get-azuresubscription
 ```
 
+| certification | level |
+|---------------|-------|
+|GH 900|Intermediate|
+
 
 
