@@ -3,6 +3,13 @@
 
 Welcome to **Democats demo** repo !
 
-Now _italic_
+_Purpose of Repo is_
+1. Prepare fo GH900 exam
+2. Try out various features of Github
+
+```powershell
+get-azuresubscription
+```
+
 
 
